@@ -6,7 +6,7 @@ Ewing sarcoma research runs on a small number of immortalized **cell-line models
 
 **Definition of shipped:** the open-data/license/privacy gate (artifact committed); identity is resolved across the three core systems; authentication/misidentification status is present; all assertions are field-level provenanced; the completeness score is ≥ 90/100; the entry validates in CI; the domain r
 
-This is a **Hee-Lee Oss** good-deed project. Contributors pull a task, do it with their own coding agent, and open a PR. Get started: https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads
+This is a **Hee-Lee Oss** good-deed project. Contributors pull a task, do it with their own coding agent, and open a PR. Get started: https://github.com/HeeLeeOss/hee-lee-oss-downloads
 
 ## Plan
 - [PLAN.md](./PLAN.md) — robust enterprise plan (vision, architecture, roadmap, risks; includes an applied-improvements appendix + review sign-off)
@@ -16,7 +16,7 @@ This is a **Hee-Lee Oss** good-deed project. Contributors pull a task, do it wit
 ## Contribute
 ```bash
 hee-lee-oss browse
-hee-lee-oss next --repo Hee-Lee-Oss-Projects/ewing-cell-line-catalog --no-fork
+hee-lee-oss next --repo HeeLeeOss/ewing-cell-line-catalog --no-fork
 ```
 
 ## Licensing & review
